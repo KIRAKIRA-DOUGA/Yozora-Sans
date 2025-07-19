@@ -1,16 +1,11 @@
-Copyright (c) _\<dates\>_, _\<Copyright Holder\> (\<URL|email\>)_,  
-with Reserved Font Name _\<Reserved Font Name\>_.
-
-Copyright (c) _\<dates\>_, _\<additional Copyright Holder\> (\<URL|email\>)_,  
-with Reserved Font Name _\<additional Reserved Font Name\>_.
-
-Copyright (c) _\<dates\>_, _\<additional Copyright Holder\> (\<URL|email\>)_.  
+Copyright (c) _2025_, _KIRAKIRA☆_,
+with Reserved Font Name _Yozora Sans_.
 &nbsp;
 
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.  
-This license is copied below, and is also available with a FAQ at:  
-https\://openfontlicense.org  
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https\://openfontlicense.org
 &nbsp;
 
 \----------------------------------------------------------------------
@@ -113,4 +108,3 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
-
